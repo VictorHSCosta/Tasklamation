@@ -1,4 +1,5 @@
 /* Frontend Application Styles */
+@import "tailwindcss";
 
 * {
   margin: 0;
